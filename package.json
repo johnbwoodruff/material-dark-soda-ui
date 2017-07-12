@@ -1,13 +1,19 @@
 {
   "name": "material-dark-soda",
   "theme": "ui",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A beautiful and vibrant Material Design color theme for Atom",
   "keywords": [
     "ui",
     "theme"
   ],
-  "repository": "https://github.com/jbw91/material-dark-soda-ui",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbw91/material-dark-soda-ui"
+  },
+  "bugs": {
+    "url": "https://github.com/jbw91/material-dark-soda-ui/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
